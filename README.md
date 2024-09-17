@@ -31,5 +31,5 @@
 
 🌱 **I'm currently working on...**
 ---
-![zyovn's github stats](https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&theme=tokyonight)
+![zyovn's github stats](https://github-readme-stats.vercel.app/api?username=zyovn&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyovn&layout=compact&theme=dracula)
