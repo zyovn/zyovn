@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20This%20is%20zyovn's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20This%20is%20zyovn's%20Github&fontSize=50)
 
 👽 **About me**
 ---
