@@ -11,7 +11,7 @@
 👣 **Experience**
 ---
 - 숙명여자대학교 소비자경제학과 데이터 분석 학회 '빅숙타' (2022.03 ~ 2022.11)
-- 숙명여자대학교 소비자경제학과 학부연구실 'Smart-Consumer Lab' (2024.03 ~ )
+- <a href=https://sites.google.com/view/smart-consumer-lab> 숙명여자대학교 소비자경제학과 학부연구실 'Smart-Consumer Lab' (2024.03 ~ ) </a>
 - IT연합동아리 UMC 6th Server - SpringBoot (2024.03 ~ 2024.08)
 - IT연합동아리 UMC 7th Server - SpringBoot (2024.09 ~ )
 <br>
