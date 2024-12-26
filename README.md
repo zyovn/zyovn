@@ -37,7 +37,7 @@
 
 🌱 **I'm currently working on...**
 ---
-<p>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&include_all_commits=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyovn&layout=compact&theme=dark">
-</p>
+  <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=zyovn">
+</div>
