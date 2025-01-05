@@ -1,7 +1,5 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Joo%20Jeong%20bin.&fontSize=50" />	
-</div>
-
+<h3 align="center"> 🖐️ Hi, This is zyovn's github  </h3>
+<hr>
 <h3 align="center"> 🚀 Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB" />
@@ -21,14 +19,14 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"></a>
 </p>
 
-<h3 align="center"> 🌊 About me </h3>
+<h3 align="center"> 🌊 About Me </h3>
 <p align="center">
   <a href="https://velog.io/@nibgnoej"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@nibgnoej"/></a> 
   <a href="https://zyovn.notion.site/Joo-Jeong-bin-90644f9147814e4384b001de064c7db4?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="mailto:jeongbin0201@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Mail-d14836?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center"> 🌱 I'm currently working on... </h3>
+<h3 align="center"> 🌱 More About... </h3>
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&include_all_commits=true&theme=dark">
   &nbsp;
