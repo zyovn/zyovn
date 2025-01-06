@@ -1,6 +1,6 @@
 <h3 align="center"> 🖐️ Hi, This is zyovn's github  </h3>
 <hr>
-<h3 align="center"> 🚀 Skills </h3>
+<h3 align="center"> 🛠️ Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
