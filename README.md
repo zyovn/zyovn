@@ -13,7 +13,8 @@
   <br>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"></a> 
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flate&logo=RStudio&logoColor=white"></a> 
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat&logo=jupyter&logoColor=F37726"/> <br>
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat&logo=jupyter&logoColor=F37726"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
