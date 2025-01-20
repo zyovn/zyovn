@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://velog.io/@nibgnoej"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@nibgnoej"/></a> 
   <a href="https://zyovn.notion.site/Joo-Jeong-bin-90644f9147814e4384b001de064c7db4?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:jjbin0201@gmail.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:jjbin0201@gmail.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jjbin0201@gmail.com"/></a>
 </p>
 
 <h3 align="center"> 🌱 More About... </h3>
