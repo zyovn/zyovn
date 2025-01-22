@@ -1,4 +1,4 @@
-<h3 align="center"> 🖐️ Hi, This is zyovn's github  </h3>
+<h3 align="center"> 👋 Hi, This is zyovn's github  </h3>
 <hr>
 <h3 align="center"> 🛠️ Skills </h3>
 <p align="center">
