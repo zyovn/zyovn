@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB" /></a> 
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat&logo=jupyter&logoColor=F37726"/></a> 
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" /></a> 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" /></a> 
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" /></a> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a> 
