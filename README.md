@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Redis-FF4438?stype=flat&logo=redis&logoColor=white" /></a>
   <br>
+  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white" /></a>
