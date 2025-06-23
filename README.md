@@ -30,7 +30,7 @@
 
 <h3 align="center"> 🌱 More About... </h3>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zyovn&show_icons=true&include_all_commits=true&theme=dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&theme=dark">
   &nbsp;
   <img height="150em" src="http://mazassumnida.wtf/api/generate_badge?boj=zyovn">
 </p>
