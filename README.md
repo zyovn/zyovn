@@ -1,8 +1,6 @@
 ## 💥 Hi, This is Jeongbin's github
 > Sookmyung Women's Univ. Consumer Economics, IT Engineering
 
-<br>
-
 ### 🖥️ Projects
 ---
 | 기간 | 프로젝트명 | 설명 | 활용 기술 | 깃허브 |
@@ -22,18 +20,6 @@
 | 2024.03 ~ 2025.02 | Smart-Consumer Lab (소비자경제학과 학부 연구실 빅데이터팀) | R, Python, SPSS를 활용한 애슬레저 룩 소비자 행동 분석 |
 | 2024.03 ~ 2025.08 | SMWU UMC 6th ~ 8th Server | 6th: Server 파트(Spring Boot 스터디) <br> 7th: 회장·지부장, Server 파트(Spring Boot 스터디) <br>8th: Server 파트장 |
 | 2025.02 ~ 2025.12 | Kusitms 31st · 32nd Backend | 31st: 서울우유 기업 프로젝트, VOIM <br> 32nd: LG 기업 프로젝트, 치이이즈 |
-
-<br>
-
-### 🏆 Awards
----
-- 2022.11.17 | 소비자경제학과 빅데이터 분석 학회 빅숙타 최종 발표회 - 장려상
-- 2025.09.27 | Kusitms 32nd, LG 기업 프로젝트 - 대상
-- 2025.12.06 | Kusitms 32nd, Meet Up Day - 우수상
-
-### 📜 Certificates
----
-- 2025.12.01 | Topcit(Test of Practical Competency in IT) - 486, Level. 3
 
 ### 🌊 More About
 ---
