@@ -25,14 +25,6 @@
 
 <br>
 
-### 🌊 More About
----
-- 📝 [Tech Blog](https://velog.io/@nibgnoej)
-- ✨ [Portfolio](https://zyovn.notion.site/Joo-Jeong-bin-90644f9147814e4384b001de064c7db4?pvs=4)
-- 📩 [Mail](mailto:jjbin0201@gmail.com)
-
-<br>
-
 ### 🌱 Stats
 ---
 <p align="left">
