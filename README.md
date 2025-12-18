@@ -1,6 +1,8 @@
 ## 💥 Hi, This is Jeongbin's github
 > Sookmyung Women's Univ. Consumer Economics, IT Engineering
 
+<br>
+
 ### 🖥️ Projects
 ---
 | 기간 | 프로젝트명 | 설명 | 활용 기술 | 깃허브 |
@@ -21,11 +23,15 @@
 | 2024.03 ~ 2025.08 | SMWU UMC 6th ~ 8th Server | 6th: Server 파트(Spring Boot 스터디) <br> 7th: 회장·지부장, Server 파트(Spring Boot 스터디) <br>8th: Server 파트장 |
 | 2025.02 ~ 2025.12 | Kusitms 31st · 32nd Backend | 31st: 서울우유 기업 프로젝트, VOIM <br> 32nd: LG 기업 프로젝트, 치이이즈 |
 
+<br>
+
 ### 🌊 More About
 ---
 - 📝 [Tech Blog](https://velog.io/@nibgnoej)
 - ✨ [Portfolio](https://zyovn.notion.site/Joo-Jeong-bin-90644f9147814e4384b001de064c7db4?pvs=4)
 - 📩 [Mail](mailto:jjbin0201@gmail.com)
+
+<br>
 
 ### 🌱 Stats
 ---
