@@ -27,24 +27,19 @@
 
 ### 🏆 Awards
 ---
+- 2022.11.17 | 소비자경제학과 빅데이터 분석 학회 빅숙타 최종 발표회 - 장려상
 - 2025.09.27 | Kusitms 32nd, LG 기업 프로젝트 - 대상
 - 2025.12.06 | Kusitms 32nd, Meet Up Day - 우수상
-
-<br>
 
 ### 📜 Certificates
 ---
 - 2025.12.01 | Topcit(Test of Practical Competency in IT) - 486, Level. 3
-
-<br>
 
 ### 🌊 More About
 ---
 - 📝 [Tech Blog](https://velog.io/@nibgnoej)
 - ✨ [Portfolio](https://zyovn.notion.site/Joo-Jeong-bin-90644f9147814e4384b001de064c7db4?pvs=4)
 - 📩 [Mail](mailto:jjbin0201@gmail.com)
-
-<br>
 
 ### 🌱 Stats
 ---
