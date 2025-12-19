@@ -14,7 +14,7 @@
 
 <br>
 
-### 👣 Experience
+### 👣 Experiences
 ---
 | 기간 | 활동 | 활동 내용 |
 |---|---|---|
@@ -27,8 +27,21 @@
 
 ### 🌱 Stats
 ---
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&theme=dark">
-  &nbsp;
-  <img height="150em" src="http://mazassumnida.wtf/api/generate_badge?boj=zyovn">
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&theme=dark"
+        width="100%"
+        height="180"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="http://mazassumnida.wtf/api/generate_badge?boj=zyovn"
+        width="100%"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
