@@ -25,26 +25,3 @@
 | 2024.03 ~ 2025.02 | Smart-Consumer Lab (소비자경제학과 학부 연구실 빅데이터팀) | R, Python, SPSS를 활용한 애슬레저 룩 소비자 행동 분석 |
 | 2024.03 ~ 2025.08 | SMWU UMC 6th ~ 8th Server | 6th: Server 파트(Spring Boot 스터디) <br> 7th: 회장·지부장, Server 파트(Spring Boot 스터디) <br>8th: Server 파트장 |
 | 2025.02 ~ 2025.12 | Kusitms 31st · 32nd Backend | 31st: 서울우유 기업 프로젝트, VOIM <br> 32nd: LG 기업 프로젝트, 치이이즈 |
-
-<br>
-
-### 🌱 Stats
----
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=zyovn&show_icons=true&theme=dark"
-        width="100%"
-        height="180"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="http://mazassumnida.wtf/api/generate_badge?boj=zyovn"
-        width="100%"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
