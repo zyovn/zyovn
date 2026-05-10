@@ -1,5 +1,4 @@
 ## 💥 Hi, This is Jeongbin's github
-> Backend Engineer
 
 <br>
 
