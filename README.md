@@ -1,4 +1,4 @@
-## 💥 Hi, This is Jeongbin's github
+## 🌀 Hi, This is Jeongbin's github
 
 <br>
 
