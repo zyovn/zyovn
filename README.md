@@ -1,4 +1,5 @@
 ## 🌀 Hi, This is Jeongbin's github
+> Sookmyung Women's Univ. Consumer Economics, IT Engineering
 
 <br>
 
@@ -22,3 +23,5 @@
 |---|---|---|
 | 2024.03 ~ 2025.08 | UMC 6th ~ 8th Server | 6th: 반려동물 앨범 SNS 'PETWIF' <br> 7th: 교내 회장·지부장, 패션 공유 SNS 'Closit' <br>8th: Server 파트장, 배리어프리 지도 서비스 'Wayble' |
 | 2025.02 ~ 2025.12 | Kusitms 31st · 32nd Backend | 31st: 서울우유 기업 프로젝트, 시각 장애인 쇼핑 보조 크롬 익스텐션 'VOIM' <br> 32nd: LG 전자 기업 프로젝트, 공유 앨범 웹 서비스 '치이이즈' |
+| 2024.03 ~ 2025.02 | Smart-Consumer Lab (소비자경제학과 학부 연구실 빅데이터팀) | 중소벤처기업부 과제 및 더라커룸 협업 프로젝트 참여 <br> R, Python, SPSS를 활용해 연관성 분석, 빈도분석 수행 |
+| 2022.03 ~ 2022.11 | BigSookTa (소비자경제학과 데이터 분석 학회) | Python, Jupyter Notebook 기반 코로나19 이후 소비자 일상생활 변화 데이터 분석 |
